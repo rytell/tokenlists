@@ -1,0 +1,49 @@
+{
+  "name": "Rytell Token List",
+  "logoURI": "https://i.imgur.com/ToYRW2N.png",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "keywords": [],
+  "timestamp": "2021-12-06T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "",
+      "chainId": 43114,
+      "name": "Radi",
+      "symbol": "RADI",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/Cksz03r.png"
+    },
+    {
+      "address": "",
+      "chainId": 43114,
+      "name": "Rytell Iron Ore",
+      "symbol": "RIORE",
+      "decimals": 18
+    },
+    {
+      "address": "",
+      "chainId": 43114,
+      "name": "Rytell Stone Block",
+      "symbol": "RSBL",
+      "decimals": 18
+    },
+    {
+      "address": "",
+      "chainId": 43114,
+      "name": "Rytell Wheat",
+      "symbol": "RWHT",
+      "decimals": 18
+    },
+    {
+      "address": "",
+      "chainId": 43114,
+      "name": "Rytell Wooden Plank",
+      "symbol": "RWPLK",
+      "decimals": 18
+    }
+  ]
+}
