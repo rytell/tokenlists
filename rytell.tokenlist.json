@@ -9,45 +9,13 @@
   "keywords": [],
   "timestamp": "2021-12-06T00:00:00+00:00",
   "tokens": [
-     {
+    {
       "address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
       "chainId": 43114,
       "name": "Radi",
       "symbol": "RADI",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/DfmUMcx.png"
-    },
-    {
-      "address": "",
-      "chainId": 43114,
-      "name": "Rytell Iron Ore",
-      "symbol": "RIORE",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/YTJKLeh.png"
-    },
-    {
-      "address": "",
-      "chainId": 43114,
-      "name": "Rytell Stone Block",
-      "symbol": "RSBL",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/u0DQhU9.png"
-    },
-    {
-      "address": "",
-      "chainId": 43114,
-      "name": "Rytell Wheat",
-      "symbol": "RWHT",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/vbwL7cj.png"
-    },
-    {
-      "address": "",
-      "chainId": 43114,
-      "name": "Rytell Wooden Plank",
-      "symbol": "RWPLK",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/1BO53nq.png"
     }
   ]
 }
