@@ -3,11 +3,11 @@
   "logoURI": "https://i.imgur.com/ToYRW2N.png",
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "keywords": [],
-  "timestamp": "2021-12-06T00:00:00+00:00",
+  "timestamp": "2022-01-31T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
